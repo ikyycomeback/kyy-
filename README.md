@@ -1,91 +1,70 @@
-# CATATAN ( NOTE )
-This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
-<p align="center">
-	<img src="https://telegra.ph/file/094abb98c63d1fbac703e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+  <body>
+<h1 align="center">🔥 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 🔥</h1>
+<br>
+<div align="center">
+<img src="https://i.imgur.com/jx17oHT.gif">
+</div>
+<br>
 </p>
-<h1 align="center">THE_JO_BOT</h1>
-SUBSCRIBE YOUTUBE THE JO BOT
-* [`YouTube`](https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w)
+<div>
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<div>
+</p>
+</p>
+<h4><font size="2"><a href="https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g"><font color="red">SUBSCRIBE</font>
+</h4>
+<h4><font size="2"><a href="https://www.instagram.com/hikal_857/?hl=id"><font color="red">FOLLOW INSTAGRAM</font>
+</h4>
+<h4><font size="2"><a href="https://t.me/haikal857"><font color="red">TELEGRAM</font>          
+</p>
+</p>
+<a href="https://trakteer.id/hw-mods-wa-haikal" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png" height="15" style="border:0px;height:25px;" alt="DONASI FOR ME :V"></a>
+</p>
+<p align="center"> </p> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> </p> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> </p> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> </p>
+ </p> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> </p> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </p> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
+</p>
+<p align="center">
+</p>
+- My Name Haikal
+</p>
+- Hello All 👋
+<br>
+</p>
+<h2 align="center">🔥 SPOTIFY 🔥</h2>
+<p align="center">
+  <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+<p align="center"><a href="https://github.com/HaikaltestBot123"><img src="https://github-readme-stats.vercel.app/api?username=HaikaltestBot123&show_icons=true&theme=radical"></a></p>
+</div>
 
-This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-
-## My Project
-* New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
-* WhatsApp Bot normal [`THEJO307/jo-v-10`](https://github.com/THEJO307/jo-v-10)
-* WhatsApp Bot Multi Device [`THEJO307/jo-v-10`](https://github.com/THEJO307/jo-v-10)
-
-
-## UNTUK PENGGUNA WINDOWS/RDP
-
-* Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
-* Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
-* Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
-
-
+# Instalasi
+## Heroku Buildpack
 ```bash
-git https://github.com/THEJO307/jo-v-10
-cd jo-v-10
-npm install
+heroku/nodejs
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
-
-## HOW TO CONNECT TO MONGODB WHEN RUN IN HEROKU
-
-* Create account and database in mongodb atlas [`watch here`](https://youtu.be/rPqRyYJmx2g)
-* when you already have a database, you just need to take mongourl
-* Put mongourl in Procfile `web: node . --db 'mongourl'`
-* Example `web: node . -- db 'Your Mongo URI'`
-
-
-
-## FOR TERMUX/UBUNTU/SSH USER
-
-```bash
+## For Termux
+```ts
+termux-setup-storage
 apt update && apt upgrade
-apt install git -y
-apt install nodejs -y
-apt install ffmpeg -y
-git clone https://github.com/THEJO307/jo-v-10
-cd jo-v-10
-npm install
-```
-
-## RECOMMENDED INSTALL ON TERMUX
-
-```bash
+pkg install nodejs git ffmpeg libwebp imagemagick
+git clone https://github.com/HW-XMTeam/baseikal.git
+cd baseikal-master
 pkg install yarn
 yarn
+npm install
+npm start
 ```
 
-## Installing
-```bash
-$ node .
-```
+> ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
-## ❗ Warning
-WhatsApp bot is still in the development stage, so there are a few bugs
-WhatsApp Connection (BETA, not working perfectly)
+# INSTALL
+* [Node.js](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
+* [Libwebp](https://developers.google.com/speed/webp/download)
 
-Editing Number Owner & session name in [`config.js`](https://github.com/THEJO307/jo-v-10/blob/master/config.js)
-Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
-
-
-## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`DikaArdnt`](https://github.com/DikaArdnt)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Faiz`](https://github.com/FaizBastomi)
-* [`Gimenz`](https://github.com/Gimenz)
-* [`rayy`](https://github.com/rayyreall)
-* [`Fatih Arridho`](https://github.com/FatihArridho)
-* [`zhwzein`](https://github.com/zhwzein)
-* [`CAF-ID`](https://github.com/CAF-ID)
-* [`bintang`](https://github.com/Bintangp02)
-
-```Thanks to all who have participated in the development of this script```
-
-
-License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
-
-# botmdjo
+</div>
+</body>
