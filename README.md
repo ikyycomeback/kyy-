@@ -12,9 +12,9 @@
 <div>
 </p>
 </p>
-<h4><font size="2"><a href="https://youtube.com/channel/UCa37vxxUI-XULKw_sHb4A5g"><font color="red">SUBSCRIBE</font>
+<h4><font size="2"><a href="https://youtube.com/@ikyymakerz7208"><font color="red">SUBSCRIBE</font>
 </h4>
-<h4><font size="2"><a href="https://www.instagram.com/hikal_857/?hl=id"><font color="red">FOLLOW INSTAGRAM</font>
+<h4><font size="2"><a href="https://www.instagram.com/kclking_/?hl=id"><font color="red">FOLLOW INSTAGRAM</font>
 </h4>
 <h4><font size="2"><a href="https://t.me/haikal857"><font color="red">TELEGRAM</font>          
 </p>
@@ -26,7 +26,7 @@
 </p>
 <p align="center">
 </p>
-- My Name Haikal
+- My Name Ikyy
 </p>
 - Hello All 👋
 <br>
@@ -50,8 +50,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/HW-XMTeam/baseikal.git
-cd baseikal-master
+git clone https://github.com/ikyycomeback/iky-botz.git
+cd iky-botz-master
 pkg install yarn
 yarn
 npm install

